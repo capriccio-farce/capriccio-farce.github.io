@@ -2078,7 +2078,7 @@ body {
       }
     @font-face {
       font-family: 'FZZhunYuan-M02S';
-      src: url('/media/fonts/FZZhunYuan-M02S.ttf');
+      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/FZZhunYuan-M02S.ttf');
     }
     * {
         font-family: 'FZZhunYuan-M02S';

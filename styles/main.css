@@ -2077,11 +2077,11 @@ body {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'NotoSerifSC-Regular';
-      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/NotoSerifSC-Regular.ttf');
+      font-family: 'SourceHanSerifSC-Regular';
+      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/SourceHanSerifSC-Regular.ttf');
     }
     * {
-        font-family: 'NotoSerifSC-Regular';
+        font-family: 'SourceHanSerifSC-Regular';
     }body {
       color: #555;
     }

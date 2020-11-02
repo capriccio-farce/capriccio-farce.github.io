@@ -2077,11 +2077,11 @@ body {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'SourceHanSerifSC-Regular';
-      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/SourceHanSerifSC-Regular.ttf');
+      font-family: 'Source Han Serif SC';
+      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/Source Han Serif SC.ttf');
     }
     * {
-        font-family: 'SourceHanSerifSC-Regular';
+        font-family: 'Source Han Serif SC';
     }body {
       color: #555;
     }
@@ -2158,23 +2158,23 @@ body {
       color: #868e96;
       border-bottom-color: #868e96;
     }.active-current > a {
-      color: #ae3ec9 !important;
-      border-bottom-color: #ae3ec9 !important;
+      color: #212529 !important;
+      border-bottom-color: #212529 !important;
     }
     .sidebar-title-active {
-      color: #ae3ec9;
-      border-bottom-color: #ae3ec9;
+      color: #212529;
+      border-bottom-color: #212529;
     }
     .sidebar-title-item:hover {
-      color: #ae3ec9 !important;
+      color: #212529 !important;
     }
     .active-show > a {
-      color: #ae3ec9;
-      border-bottom-color: #ae3ec9;
+      color: #212529;
+      border-bottom-color: #212529;
     }
     .active-hidden > a {
-      color: #ae3ec9;
-      border-bottom-color: #ae3ec9;
+      color: #212529;
+      border-bottom-color: #212529;
     }.bg-color {
       background-color: #fffffffe;
     }

@@ -2077,11 +2077,11 @@ body {
         margin: 0 auto;
       }
     @font-face {
-      font-family: 'FZZhunYuan-M02S';
-      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/FZZhunYuan-M02S.ttf');
+      font-family: 'PingFang-Jian-ChangGuiTi-2';
+      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/PingFang-Jian-ChangGuiTi-2.ttf');
     }
     * {
-        font-family: 'FZZhunYuan-M02S';
+        font-family: 'PingFang-Jian-ChangGuiTi-2';
     }body {
       color: #555;
     }

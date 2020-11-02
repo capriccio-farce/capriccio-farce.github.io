@@ -2076,13 +2076,7 @@ body {
         width: 960px;
         margin: 0 auto;
       }
-    @font-face {
-      font-family: 'PingFang-Jian-ChangGuiTi-2';
-      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/PingFang-Jian-ChangGuiTi-2.ttf');
-    }
-    * {
-        font-family: 'PingFang-Jian-ChangGuiTi-2';
-    }body {
+    body {
       color: #555;
     }
     .next-md-body {

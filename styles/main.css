@@ -2076,13 +2076,7 @@ body {
         width: 960px;
         margin: 0 auto;
       }
-    @font-face {
-      font-family: 'Source Han Serif SC';
-      src: url('https://cdn.jsdelivr.net/gh/capriccio-farce/capriccio-farce.github.io@main/media/fonts/Source Han Serif SC.ttf');
-    }
-    * {
-        font-family: 'Source Han Serif SC';
-    }body {
+    body {
       color: #555;
     }
     .next-md-body {
